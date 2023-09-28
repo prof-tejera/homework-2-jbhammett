@@ -1,5 +1,6 @@
 {
   "name": "my-first-app",
+  "homepage": "https://prof-tejera.github.io/homework-2-jbhammett",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,8 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": {
-    "https://prof-tejera.github.io/homework-2-jbhammett"
   }
 }
