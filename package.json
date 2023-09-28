@@ -36,5 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://prof-tejera.github.io/homework-2-jbhammett"
+  "homepage": {
+    "https://prof-tejera.github.io/homework-2-jbhammett"
+  }
 }
